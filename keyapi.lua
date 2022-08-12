@@ -5,8 +5,8 @@ local data =
 	{
 		["content"] = "",
 		["embeds"] = {{
-			["title"] = "**Aerche Execute Logger**",
-			["description"] = _G.Key,
+			["title"] = "** daskolik key api v0.1**",
+			["description"] = "**key api daskolik**",
 			["type"] = "rich",
 			["color"] = tonumber(0xffffff),
 			["fields"] = {
