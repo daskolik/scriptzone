@@ -1,2 +1,2 @@
 # scriptzone softworks
-## scripts
+## wanna steal, do it
