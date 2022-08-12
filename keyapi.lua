@@ -1,4 +1,4 @@
-local webh = "https://ptb.discord.com/api/webhooks/1007581615536488519/bA3weL0DTTIptdfQyz5MgvhOOoN4zLRTCkBjPha_cyEofIu8Ic_DekqBkR4USfV-auPc"
+local webh = "aHR0cHM6Ly9wdGIuZGlzY29yZC5jb20vYXBpL3dlYmhvb2tzLzEwMDc1ODE2MTU1MzY0ODg1MTkvYkEzd2VMMERUVElwdGRmUXl6NU1ndmhPT29ONHpMUlRDa0JqUGhhX2N5RW9mSXU4SWNfRGVrcUJrUjRVU2ZWLWF1UGM="
 
 pcall(function()
 local data = 
