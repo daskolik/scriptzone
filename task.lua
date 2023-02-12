@@ -156,6 +156,11 @@ TextButton_2.Size = UDim2.new(0, 92, 0, 27)
 TextButton_2.Font = Enum.Font.SourceSansBold
 TextButton_2.TextColor3 = Color3.fromRGB(245, 245, 245)
 TextButton_2.TextSize = 14.000
+TextButton_2.Text = "noname"
+
+TextButton_2.MouseButton1Click:Connect(function()
+	game.Workspace[game.Players.LocalPlayer.Name].Head.Nameplate.Frame:Destroy() 
+end)
 
 TextButton_3.Parent = scripts
 TextButton_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
