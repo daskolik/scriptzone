@@ -1,2 +1,2 @@
 # scriptzone softworks
-## wanna steal, do it
+## kolikware
